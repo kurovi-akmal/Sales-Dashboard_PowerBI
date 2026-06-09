@@ -1,0 +1,83 @@
+Dashboard Pages
+1. Sales Overview
+
+Provides a high-level view of business performance through key metrics and sales trends.
+
+Key Features:
+
+Total Sales Analysis
+Revenue Trends
+KPI Monitoring
+Performance Tracking
+2. Profitability Analysis
+
+Focuses on profit generation and profitability drivers across the business.
+
+Key Features:
+
+Profit Margin Analysis
+Profit Trends
+Category-Level Profitability
+Business Performance Evaluation
+3. Regional Performance
+
+Analyzes business performance across different regions.
+
+Key Features:
+
+Regional Sales Comparison
+Geographic Performance Insights
+Revenue Distribution
+Regional Growth Analysis
+4. Customer Analysis
+
+Provides insights into customer behavior and purchasing patterns.
+
+Key Features:
+
+Customer Segmentation
+Purchase Behavior Analysis
+Customer Contribution Analysis
+Customer Performance Metrics
+5. Shipping & Operations
+
+Evaluates operational efficiency and logistics performance.
+
+Key Features:
+
+Shipping Performance Monitoring
+Delivery Analysis
+Operational Metrics
+Logistics Insights
+6. Product Performance
+
+Examines product-level performance and business impact.
+
+Key Features:
+
+Product Revenue Analysis
+Profit Contribution
+Top & Bottom Performing Products
+Product Trend Analysis
+Tools & Technologies
+Power BI Desktop
+Power Query
+DAX (Data Analysis Expressions)
+Data Modeling
+Data Visualization Techniques
+Skills Demonstrated
+Data Cleaning & Transformation
+Data Modeling
+Dashboard Design
+Business Intelligence Reporting
+Interactive Visualization Development
+KPI Design & Monitoring
+Data Analysis
+Insight Generation
+Project Objectives
+Transform raw business data into meaningful insights.
+Monitor key business performance indicators.
+Identify sales and profitability trends.
+Analyze customer behavior and regional performance.
+Evaluate operational and shipping efficiency.
+Support data-driven decision-making.
